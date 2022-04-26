@@ -70,4 +70,4 @@
 
 也可以关注我的公众号`祁大聪`，里面有很多技术和工具。
 
-![qidacong](.\imgs\qidacong.jpg)
+![qidacong](https://raw.githubusercontent.com/qicongmark/blob-img/master/20220426/qidacong.6kvorztse8k0.webp)
